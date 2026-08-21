@@ -3,7 +3,7 @@
 
 An interactive Power BI dashboard built to analyze Amazon product sales performance, tracking revenue, product movement, and customer reviews across categories.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_02/Dashboard_Page.png)
 
 [Open interactive dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMzk3ZjNiNGUtYzgyNS00OTU2LTk4MGUtZGVjZTA3ODg3YmFjIiwidCI6Ijc1ODk4MjEwLWZiNTUtNDk2ZS1iMDEyLWUxYzAzZDEzYWI2MCJ9)
 
