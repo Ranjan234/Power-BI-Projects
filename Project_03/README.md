@@ -10,10 +10,10 @@ An interactive Power BI dashboard that tracks retail inventory, sales performanc
 ## 📸 Preview
 
 **Overview**
-![Dashboard Overview](Dashboard_Page1.png)
+![Dashboard Overview](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_03/Data/Image/Dashboard%20Page1.png)
 
 **Overview with Filters**
-![Dashboard with Filters](Page2.png)
+![Dashboard with Filters](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_03/Data/Image/Page2.png)
 
 ## 📊 Key Metrics (KPI Cards)
 
