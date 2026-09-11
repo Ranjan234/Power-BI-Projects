@@ -47,14 +47,14 @@ The report is fully interactive with slicers for **Location**, **Treatment Type*
 ## 🖼️ Dashboard Views
 
 | All Data | 2024 | 2025 | Filtered: Cleaning (2024) |
-|---|---|---|---|
+
 ![All](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203013.png) 
 
 ![2024](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203025.png) 
 
-![2025](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203041.png) |
+![2025](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203041.png) 
 
-![Cleaning](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203058.png) |
+![Cleaning](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203058.png) 
 
 ---
 
