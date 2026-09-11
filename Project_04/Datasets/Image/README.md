@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing revenue, profitability, and operational efficiency across multiple clinic locations. Built to help stakeholders track KPIs, identify underperforming locations/services, and monitor patient retention trends.
 
-![Dashboard Overview](./screenshots/overview.png)
+![Dashboard Overview](Project_04/Datasets/Image/Screenshot 2026-09-11 203013.png)
 
 ---
 
