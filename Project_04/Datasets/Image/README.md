@@ -90,4 +90,4 @@ The report is fully interactive with slicers for **Location**, **Treatment Type*
 
 ## 📬 Connect
 
-If you found this project useful or have feedback, feel free to connect with me on [LinkedIn](#) or open an issue in this repo.
+If you found this project useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soumyaranjansahoo0/) or open an issue in this repo.
