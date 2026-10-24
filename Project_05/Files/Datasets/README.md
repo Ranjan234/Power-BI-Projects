@@ -77,7 +77,7 @@ The dashboard helps users understand key business metrics and identify opportuni
 
 ## 🖼️ Dashboard Preview
 
-![Customer Sales Dashboard](dashboard.png)
+![Customer Sales Dashboard](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_05/Files/Overview.png)
 
 > **Note:** Upload your dashboard screenshot to this repository and name it `dashboard.png`, or replace the image path above with your actual image filename.
 
