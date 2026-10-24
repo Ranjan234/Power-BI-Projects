@@ -89,7 +89,7 @@ The dashboard helps users understand key business metrics and identify opportuni
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** [Add Your GitHub Repository](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_05)
+- **GitHub Repository:** [GitHub Repository](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_05)
 - **Power BI Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTJmZTUwZGEtODVmMS00MjAxLWJlNzctNzA5YjllYWIyMDQxIiwidCI6Ijc1ODk4MjEwLWZiNTUtNDk2ZS1iMDEyLWUxYzAzZDEzYWI2MCJ9)
 
 ## 🚀 Conclusion
