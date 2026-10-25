@@ -68,6 +68,11 @@ Power BI (DAX, slicers, line, donut and bar charts)
 └── [add .pbix file]
 ```
 
+## 🔗 Project Links
+
+- **GitHub Repository:** [GitHub Repository](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_06)
+- **Power BI Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTVlNzA4OTktM2E5Ni00Mjk4LWE1M2MtNGEwYTdlNTI1YjcyIiwidCI6Ijc1ODk4MjEwLWZiNTUtNDk2ZS1iMDEyLWUxYzAzZDEzYWI2MCJ9)
+
 ## Author
 **Soumya Ranjan Sahoo** · Data Analyst
 [LinkedIn](https://www.linkedin.com/in/soumyaranjansahoo0/) · [GitHub](https://github.com/Ranjan234)
