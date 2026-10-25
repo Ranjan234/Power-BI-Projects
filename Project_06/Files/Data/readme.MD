@@ -19,7 +19,7 @@ An interactive Power BI dashboard that shows **when customers buy, what they buy
 
 **Filters:** Cash Type (card / cash) and Year. **Clear all** resets them.
 
-![Filtered view: card payments, 2024](images/dashboard-filtered-card-2024.png)
+![Filtered view: card payments, 2024](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_06/Files/Data/Screenshot%202026-10-25%20144815.png)
 
 ## Key insights
 - **Two drinks make almost half of the sales.** Latte (27.87K, 24%) and Americano with Milk (25.27K, 22%). With Cappuccino, the top three reach about 62%. Espresso is the smallest at 2.81K (2.4%).
